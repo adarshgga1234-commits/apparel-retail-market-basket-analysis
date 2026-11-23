@@ -1,0 +1,129 @@
+============================================================
+RETAIL MARKET BASKET ANALYSIS - BUSINESS INSIGHTS REPORT
+============================================================
+
+📊 EXECUTIVE SUMMARY
+------------------------------------------------------------
+Total Rules Analyzed: 18
+High-Lift Rules (>2.0): 18
+High-Confidence Rules (>0.7): 14
+Average Lift: 3.889
+Average Confidence: 0.889
+
+🎯 CROSS-SELLING OPPORTUNITIES
+------------------------------------------------------------
+
+1. SET OF 3 CAKE TINS BUTTON DESIGN → SMALL POPCORN HOLDER
+   Lift: 5.0 | Confidence: 1.0
+
+2. SMALL POPCORN HOLDER → SET OF 3 CAKE TINS BUTTON DESIGN
+   Lift: 5.0 | Confidence: 1.0
+
+3. WHITE METAL LANTERN → CREAM CUPID HEARTS COAT HANGER, WHITE HANGING HEART T-LIGHT HOLDER
+   Lift: 5.0 | Confidence: 1.0
+
+4. WHITE HANGING HEART T-LIGHT HOLDER → CREAM CUPID HEARTS COAT HANGER, WHITE METAL LANTERN
+   Lift: 5.0 | Confidence: 1.0
+
+5. SET OF 3 CAKE TINS PANTRY DESIGN → RECORD CAKE STAND
+   Lift: 5.0 | Confidence: 1.0
+
+6. RECORD CAKE STAND → SET OF 3 CAKE TINS PANTRY DESIGN
+   Lift: 5.0 | Confidence: 1.0
+
+7. CREAM CUPID HEARTS COAT HANGER, WHITE METAL LANTERN → WHITE HANGING HEART T-LIGHT HOLDER
+   Lift: 5.0 | Confidence: 1.0
+
+8. CREAM CUPID HEARTS COAT HANGER, WHITE HANGING HEART T-LIGHT HOLDER → WHITE METAL LANTERN
+   Lift: 5.0 | Confidence: 1.0
+
+9. WHITE METAL LANTERN → WHITE HANGING HEART T-LIGHT HOLDER
+   Lift: 5.0 | Confidence: 1.0
+
+10. WHITE HANGING HEART T-LIGHT HOLDER → WHITE METAL LANTERN
+   Lift: 5.0 | Confidence: 1.0
+
+🏪 STORE LAYOUT RECOMMENDATIONS
+------------------------------------------------------------
+
+1. [High PRIORITY]
+   Recommendation: Place SMALL POPCORN HOLDER near SET OF 3 CAKE TINS BUTTON DESIGN
+   Rationale: Customers who buy SET OF 3 CAKE TINS BUTTON DESIGN are 100% likely to also buy SMALL POPCORN HOLDER (Lift: 5.00)
+
+2. [High PRIORITY]
+   Recommendation: Place SET OF 3 CAKE TINS BUTTON DESIGN near SMALL POPCORN HOLDER
+   Rationale: Customers who buy SMALL POPCORN HOLDER are 100% likely to also buy SET OF 3 CAKE TINS BUTTON DESIGN (Lift: 5.00)
+
+3. [High PRIORITY]
+   Recommendation: Place CREAM CUPID HEARTS COAT HANGER, WHITE HANGING HEART T-LIGHT HOLDER near WHITE METAL LANTERN
+   Rationale: Customers who buy WHITE METAL LANTERN are 100% likely to also buy CREAM CUPID HEARTS COAT HANGER, WHITE HANGING HEART T-LIGHT HOLDER (Lift: 5.00)
+
+4. [High PRIORITY]
+   Recommendation: Place CREAM CUPID HEARTS COAT HANGER, WHITE METAL LANTERN near WHITE HANGING HEART T-LIGHT HOLDER
+   Rationale: Customers who buy WHITE HANGING HEART T-LIGHT HOLDER are 100% likely to also buy CREAM CUPID HEARTS COAT HANGER, WHITE METAL LANTERN (Lift: 5.00)
+
+5. [High PRIORITY]
+   Recommendation: Place RECORD CAKE STAND near SET OF 3 CAKE TINS PANTRY DESIGN
+   Rationale: Customers who buy SET OF 3 CAKE TINS PANTRY DESIGN are 100% likely to also buy RECORD CAKE STAND (Lift: 5.00)
+
+6. [High PRIORITY]
+   Recommendation: Place SET OF 3 CAKE TINS PANTRY DESIGN near RECORD CAKE STAND
+   Rationale: Customers who buy RECORD CAKE STAND are 100% likely to also buy SET OF 3 CAKE TINS PANTRY DESIGN (Lift: 5.00)
+
+7. [High PRIORITY]
+   Recommendation: Place WHITE HANGING HEART T-LIGHT HOLDER near CREAM CUPID HEARTS COAT HANGER, WHITE METAL LANTERN
+   Rationale: Customers who buy CREAM CUPID HEARTS COAT HANGER, WHITE METAL LANTERN are 100% likely to also buy WHITE HANGING HEART T-LIGHT HOLDER (Lift: 5.00)
+
+8. [High PRIORITY]
+   Recommendation: Place WHITE METAL LANTERN near CREAM CUPID HEARTS COAT HANGER, WHITE HANGING HEART T-LIGHT HOLDER
+   Rationale: Customers who buy CREAM CUPID HEARTS COAT HANGER, WHITE HANGING HEART T-LIGHT HOLDER are 100% likely to also buy WHITE METAL LANTERN (Lift: 5.00)
+
+9. [High PRIORITY]
+   Recommendation: Place WHITE HANGING HEART T-LIGHT HOLDER near WHITE METAL LANTERN
+   Rationale: Customers who buy WHITE METAL LANTERN are 100% likely to also buy WHITE HANGING HEART T-LIGHT HOLDER (Lift: 5.00)
+
+10. [High PRIORITY]
+   Recommendation: Place WHITE METAL LANTERN near WHITE HANGING HEART T-LIGHT HOLDER
+   Rationale: Customers who buy WHITE HANGING HEART T-LIGHT HOLDER are 100% likely to also buy WHITE METAL LANTERN (Lift: 5.00)
+
+📦 PRODUCT BUNDLING SUGGESTIONS
+------------------------------------------------------------
+
+1. Bundle: SET OF 3 CAKE TINS BUTTON DESIGN, SMALL POPCORN HOLDER
+   Offer 10-15% discount when buying SET OF 3 CAKE TINS BUTTON DESIGN and SMALL POPCORN HOLDER together
+   Based on 20.00% transaction frequency
+
+2. Bundle: SMALL POPCORN HOLDER, SET OF 3 CAKE TINS BUTTON DESIGN
+   Offer 10-15% discount when buying SMALL POPCORN HOLDER and SET OF 3 CAKE TINS BUTTON DESIGN together
+   Based on 20.00% transaction frequency
+
+3. Bundle: WHITE METAL LANTERN, CREAM CUPID HEARTS COAT HANGER, WHITE HANGING HEART T-LIGHT HOLDER
+   Offer 10-15% discount when buying WHITE METAL LANTERN and CREAM CUPID HEARTS COAT HANGER, WHITE HANGING HEART T-LIGHT HOLDER together
+   Based on 20.00% transaction frequency
+
+4. Bundle: WHITE HANGING HEART T-LIGHT HOLDER, CREAM CUPID HEARTS COAT HANGER, WHITE METAL LANTERN
+   Offer 10-15% discount when buying WHITE HANGING HEART T-LIGHT HOLDER and CREAM CUPID HEARTS COAT HANGER, WHITE METAL LANTERN together
+   Based on 20.00% transaction frequency
+
+5. Bundle: SET OF 3 CAKE TINS PANTRY DESIGN, RECORD CAKE STAND
+   Offer 10-15% discount when buying SET OF 3 CAKE TINS PANTRY DESIGN and RECORD CAKE STAND together
+   Based on 20.00% transaction frequency
+
+🎁 PROMOTIONAL STRATEGIES
+------------------------------------------------------------
+
+1. Loss Leader Pricing
+   Use high-frequency items as loss leaders to drive traffic
+   Rationale: These items have the highest purchase frequency and can attract customers
+
+2. Cross-Category Promotion
+   Promote items from different categories together
+   Rationale: High lift indicates strong cross-category affinity
+
+3. Bundle Deals
+   Create bundle packages for frequently co-purchased items
+   Rationale: High confidence indicates predictable purchase patterns
+
+============================================================
+END OF REPORT
+============================================================
